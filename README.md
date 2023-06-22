@@ -1,6 +1,6 @@
 # Anet_A8_Marlin-2.1.2.1.btt-skrminie3v3-tft24-probe
 
-This Marlin 2.1.2.1 build is for the BTT SKR E3 Mini V3 and TFT24 v1.1.
+This Marlin 2.1.2.1 build is for the Anet A8 upgraded to BTT SKR E3 Mini V3 and TFT24 v1.1.
 
 Configuration:
 Anet A8 plus 3D Touch Probe.
